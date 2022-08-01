@@ -9,3 +9,5 @@ bin.x64
 lib
 lib.Win32
 lib.x64
+
+.vscode
